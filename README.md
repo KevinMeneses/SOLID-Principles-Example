@@ -1,4 +1,4 @@
-# PoC Principios SOLID
+# PoC SOLID Principles
 SOLID is an acronym and each letter is one principle about good practices in software development and coding,
 especially for Object-Oriented Programming.
 
